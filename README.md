@@ -1,13 +1,14 @@
 <h1 align="center">Hello , I'm Pushkar Malik</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **NumPy,Matplotlib,Pandas**
+-🌱 Currently exploring **NumPy, Pandas, Matplotlib, and Data Analytics**
 
-- 💬 Ask me about **Python,C++**
+-💬 Ask me about **Python, C++, OOP, and DSA**
 
-- 📫 How to reach me **mpushkar903@gmail.com**
+-📫 Contact: **[mpushkar903@gmail.com](mailto:mpushkar903@gmail.com)**
 
-- ⚡ Fun fact **I enjoy programming in both C++ and Python — one for performance and the other for creativity like building games**
+-⚡ Fun fact: **I love using C++ to solve complex problems efficiently and Python to turn ideas into creative projects and games.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
