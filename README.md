@@ -9,8 +9,6 @@
 
 -⚡ Fun fact: **I love using C++ to solve complex problems efficiently and Python to turn ideas into creative projects and games.**
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
